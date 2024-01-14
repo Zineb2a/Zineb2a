@@ -22,6 +22,4 @@ I am a Student in Canada. <img src="https://media.giphy.com/media/RemHbGtR3lNsqy
 
 - I’m studying Software Engineering at Concordia University <img src="https://media.giphy.com/media/3xIEvhVMe7OkVXkC3I/giphy.gif?cid=ecf05e47k25cihyiumj2x7f6fcfslq2gsa1nb00q0gnqwxcf&rid=giphy.gif&ct=s" width="30">
 
-- <img src="https://media.giphy.com/media/wkGnUlDVsGryVf3fvs/giphy.gif?cid=ecf05e4766k7q0c9s7p722m9dd5vrqffatbylj1i2255mn7n&rid=giphy.gif&ct=s" width="30"> What do I do in my free time ?  Coding, debugging, testing and repeat 
-
 - Here is how to reach me <img src="https://media.giphy.com/media/er8sZJJHG4CNeBttOK/giphy.gif?cid=ecf05e47u9xv3ttrti38qc89mkcadh2dojmizmktv076qfla&rid=giphy.gif&ct=s" width="30"> [![Linkedin Badge](https://img.shields.io/badge/-Don't_be_shy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/)
