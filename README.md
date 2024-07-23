@@ -27,9 +27,8 @@ I am a student in Canada, passionate about software development and always eager
 - Contributing to open-source projects
 
 ### 📫 How to reach me:
-- Email: [zineb.engineer@gmail.com](mailto:zineb.engineer@gmail.com)
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/)
 
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/)
 ---
 
 ### 🛠️ Skills:
