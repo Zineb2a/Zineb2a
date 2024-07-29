@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="400"/>
+
+
   
-  <div id="badges">
+  <h1>Hi there 👋</h1>
+    <div id="badges">
     <a href="https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  
-  <h1>Hi there 👋</h1>
   
   <h3>
     I'm Zineb, a Software Engineering Student at Concordia University!
