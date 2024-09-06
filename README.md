@@ -33,5 +33,5 @@ I am a student in Canada, passionate about software development and always eager
 ### 🛠️ Skills:
 
 - **Web Development**: HTML, CSS, Javascript, SQL, Java, Python
-- **Frameworks**:  Spring Boot, React.js, Node.js, Flask, Django, Bootstrap
+- **Frameworks**:  Spring Boot, React.js, Node.js, Flask, Django, Bootstrap, Next.js
 - **Tools**: Git, Github, Postman, Docker
