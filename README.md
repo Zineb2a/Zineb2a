@@ -23,7 +23,7 @@ I am a student in Canada, passionate about software development and always eager
 - Currently seeking an internship to gain practical experience
 
 ### 🚀 Current Projects:
-- Participating at the Headstarter Fellowship
+-
 
 ### 📫 How to reach me:
 
