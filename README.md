@@ -1,14 +1,10 @@
 <div id="header" align="center">
-
-
-  
   <h1>Hi there 👋</h1>
-    <div id="badges">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  
   <h3>
     I'm Zineb, a Software Engineering Student at Concordia University!
   </h3>
@@ -16,22 +12,45 @@
 
 ---
 
-### 👩‍💻 About Me:
-I am a student in Canada, passionate about software development and always eager to learn new technologies. <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif?cid=ecf05e471jze6t1n6htnnqx0wpjx5um77uhlq9ds8w8bx7oc&rid=giphy.gif&ct=s" width="30">
+## 👩‍💻 About Me
+Hi, I'm Zineb! I'm passionate about **software development**, exploring **new technologies**, and solving challenging problems.  
 
-- Studying Software Engineering at Concordia University <img src="https://media.giphy.com/media/3xIEvhVMe7OkVXkC3I/giphy.gif?cid=ecf05e47k25cihyiumj2x7f6fcfslq2gsa1nb00q0gnqwxcf&rid=giphy.gif&ct=s" width="30">
-- Currently seeking an internship to gain practical experience
+Here are a few more things about me:  
+- 🌱 **Eager Learner**: Always seeking opportunities to expand my technical skillset.  
+- 💼 **Aspiring Professional**: Looking for an internship to gain hands-on experience and contribute to impactful projects.  
+- 🤝 **Collaborator**: I thrive in team environments and enjoy building with others.
 
-### 🚀 Current Projects:
--
-
-### 📫 How to reach me:
-
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/)
 ---
 
-### 🛠️ Skills:
+## 🚀 Current Projects
 
-- **Web Development**: HTML, CSS, Javascript, SQL, Java, Python
-- **Frameworks**:  Spring Boot, React.js, Node.js, Flask, Django, Bootstrap, Next.js
-- **Tools**: Git, Github, Postman, Docker
+- **Campus Guide App**: A mobile app to help university students navigate campus effectively.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- **Proficient**: Python, Java, JavaScript, HTML, CSS, SQL  
+- **Familiar**: C++, TypeScript  
+
+### Frameworks & Libraries
+- **Backend**: Flask, Spring Boot, Node.js, Django  
+- **Frontend**: React.js, Next.js, Bootstrap  
+
+### Data Analysis & Visualization
+- **Tools**: Pandas, NumPy, Matplotlib  
+
+### Tools & Platforms
+- **Development**: Git, GitHub, Postman, Docker  
+- **Testing**: PyTest  
+- **Version Control**: Git Flow  
+- **Database**: MySQL, MongoDB  
+
+### Others
+- RESTful APIs, Agile Methodology, Debugging & Testing  
+
+---
+
+## 📫 How to Reach Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/zineb-alaoui-👩%E2%80%8D💻-a0a1381b9/)  
