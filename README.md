@@ -24,7 +24,7 @@ Here are a few more things about me:
 
 ## 🚀 Current Projects
 
-- **Campus Guide App**: A mobile app to help university students navigate campus effectively.
+- **FoodFlow**: Surplus Food Redistribution Platform (Capstone Project)
 
 ---
 
