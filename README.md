@@ -14,12 +14,6 @@
 
 ## 👩‍💻 About Me
 Hi, I'm Zineb! I'm passionate about **software development**, exploring **new technologies**, and solving challenging problems.  
-
-Here are a few more things about me:  
-- 🌱 **Eager Learner**: Always seeking opportunities to expand my technical skillset.  
-- 💼 **Aspiring Professional**: Looking for an internship to gain hands-on experience and contribute to impactful projects.  
-- 🤝 **Collaborator**: I thrive in team environments and enjoy building with others.
-
 ---
 
 ## 🚀 Current Projects
