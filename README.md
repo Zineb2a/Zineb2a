@@ -12,9 +12,6 @@
 
 ---
 
-## 👩‍💻 About Me
-Hi, I'm Zineb! I'm passionate about **software development**, exploring **new technologies**, and solving challenging problems.  
----
 
 ## 🚀 Current Projects
 
